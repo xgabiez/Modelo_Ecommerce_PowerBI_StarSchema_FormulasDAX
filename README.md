@@ -46,7 +46,7 @@ A partir da tabela original **Financials_origem**, foram criadas as seguintes ta
 
 Abaixo está o diagrama do modelo estrela construído no Power BI:
 
-![Modelo Star Schema](star_schema.jpeg)
+![Modelo Star Schema](Star_Schema.jpeg)
 
 ---
 
